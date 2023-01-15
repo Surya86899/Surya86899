@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Building Management System](https://github.com/Surya86899/BMS)
 
-- 🌱 I’m currently learning **Python, HTML**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Database and Java**
 
