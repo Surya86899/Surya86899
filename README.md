@@ -1,108 +1,117 @@
-[![MasterHead](https://previews.123rf.com/images/monsitj/monsitj2005/monsitj200500032/147649194-programming-code-abstract-technology-background-of-software-developer-and-computer-script-banner-3d-.jpg)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm K Suryanarayan Dora</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Surya86899&label=Profile%20views&color=0e75b6&style=flat" alt="Surya86899" />
-</p>
-<img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
-
-### 📍 Andheri-East, Mumbai  
-📱 **Mob:** 8689905648  
-📧 **Email:** dora42240@gmail.com  
-🔗 [**GitHub**](https://github.com/Surya86899) | [**LinkedIn**](https://www.linkedin.com/in/k-suryanarayan-dora-967847247)
+<div align="center" style="background-color: black; padding: 20px; border-radius: 50px; max-width: 600px; margin: auto;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+K+Suryanarayan+Dora+%F0%9F%91%8B;Information+Technology+Engineer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Creative+Web+Developer+%F0%9F%8E%8E;Always+Learning+%F0%9F%93%9A" alt="Neon typing animation" />
+</div>
 
 ---
 
-## 🎓 Education
+## 🧑‍💻 About Me
 
-- **B.E. in Information Technology (Honors in AI & ML)**  
-  *Vasantdada Patil Pratishthan's College of Engineering, Mumbai (2025)*  
-  📈 CGPA: 8.52  
+```yaml
+Name:        K Suryanarayan Dora
+Location:    Andheri-East, Mumbai 🇮🇳
+Interests:   AI/ML, Web Dev, Stock Market Automation
+Email:       dora42240@gmail.com
+Education:   B.E. - IT (AI & ML Honors)
+College:     Vasantdada Patil Pratishthan’s COE (2025)
+Current CGPA: 8.52
+```
 
-- **HSC – Bhavans College, Mumbai (2021)**  
-  📊 PCM Vocational Science — 92%
+🔭 I’m currently building:  
+[`🧠 Algo-Trading Software`](https://github.com/Surya86899/AngelOne) | [`Automatic Reel Generator`]()
 
-- **SSC – Dominic Savio High School, Mumbai (2019)**  
-  📝 Grade: 83.20%
+🌱 Learning:  
+`Python`, `Flask`, `Automation`, `Cloud`
 
----
+💬 Ask me about:  
+Databases, APIs, Web Dev, Startups, or Memes 😄
 
-## 💼 Experience
-
-- **Web Developer – IBM** *(June 2023 – July 2023)*  
-  🔨 Built “ECO-SCRAP” - a frontend website for scrap trading using HTML, CSS, JS
-
-- **Data Visualization – IBM** *(January 2024)*  
-  📊 Data preprocessing and visualization using Python (Pandas, NumPy, Matplotlib)
-
----
-
-## 💡 Projects
-
-- [**ALGO-TRADING SOFTWARE**](https://github.com/Surya86899/AngelOne)  
-  🔁 Automated buy/sell logic platform using Python, Flask, SmartAPI, nselib
-
-- [**ECO-SCRAP**](https://github.com/Surya86899/Eco-Scrap)  
-  ♻️ Frontend site for online scrap trading (HTML, CSS, JavaScript)
-
-- [**CAREER-DENDOGRAM**](https://github.com/Surya86899/Career-Dendogram)  
-  🎯 Career counseling website recommending careers based on tests
+📫 Reach me at:  
+`dora42240@gmail.com` | [`LinkedIn`](https://www.linkedin.com/in/k-suryanarayan-dora-967847247)
 
 ---
 
-## 🛠️ Skills
-
-- **Languages:** Python  
-- **Web Development:** HTML, CSS, JavaScript, Flask  
-- **Database:** MySQL  
-- **Libraries/Tools:** Pandas, NumPy, Matplotlib, Git  
+## ⚒️ Tech Toolbox
+<table align="center">
+  <tr>
+    <th>Programming Languages</th>
+    <th>Frontend</th>
+    <th>Backend & DB</th>
+    <th>Tools & Others</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" height="40"/><br>Python<br>
+      <img src="https://skillicons.dev/icons?i=java" height="40"/><br>Java<br>
+      <img src="https://skillicons.dev/icons?i=c" height="40"/><br>C
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" height="40"/><br>HTML<br>
+      <img src="https://skillicons.dev/icons?i=css" height="40"/><br>CSS<br>
+      <img src="https://skillicons.dev/icons?i=js" height="40"/><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask" height="40"/><br>Flask<br>
+      <img src="https://skillicons.dev/icons?i=mysql" height="40"/><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" height="40"/><br>Git<br>
+      <img src="https://skillicons.dev/icons?i=github" height="40"/><br>GitHub<br>
+      <img src="https://skillicons.dev/icons?i=vscode" height="40"/><br>VSCode
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏅 Certifications
+## 🚀 Projects I'm Proud Of
 
-- Python – IIT Bombay (Spoken Tutorial Project)  
-- Python & MySQL – Great Learning  
-- HTML & CSS – Learn Tube  
-- Google Cloud Study Jam – Cloud Computing & GenAI  
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| 🔄 **Algo-Trading Software** | Automated stock trading app with SmartAPI, mail alerts, Flask frontend | `Python`, `Flask`, `SMTP`, `SmartAPI`, `nselib` | [GitHub](https://github.com/Surya86899/AngelOne) |
+| ♻️ **Eco-Scrap** | Website to buy/sell scrap online | `HTML`, `CSS`, `JavaScript` | [GitHub](https://github.com/Surya86899/Eco-Scrap) |
+| 🧭 **Career Dendogram** | Career counselling web tool using quizzes | `HTML`, `CSS`, `JS` | [GitHub](https://github.com/Surya86899/Career-Dendogram) |
+| 🏢 **Building Management System** | One Stop solution for all Building related tasks | `Java Swing` | [GitHub](https://github.com/Surya86899/BMS) |
+
+---
+
+## 🏅 Achievements & Certifications
+
+🥇 Techventure Coding — **1st Prize** ₹3000  
+🥈 Techgyanathon Quiz — **2nd Prize** ₹600
+
+🧾 Certified In:  
+- Python (IIT Bombay, Spoken Tutorial)  
+- Python & MySQL (Great Learning)  
+- HTML & CSS (Learn Tube)  
+- Google Cloud Study Jam — Cloud & Gen AI  
 - AI & ML Virtual Internship
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Stats 
 
-- 🥇 1st Prize (₹3000) – Techventure coding event (College-Level)  
-- 🥈 2nd Prize (₹600) – Techgyanathon tech quiz (College-Level)
-
----
-
-## 📈 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Surya86899&show_icons=true&locale=en&layout=compact" alt="Surya86899" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Surya86899&show_icons=true&locale=en" alt="Surya86899" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya86899&" alt="Surya86899" /></p>
-
----
-
-## 🤝 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/k-suryanarayan-dora-967847247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://fb.com/Surya Dora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/khiladi_0507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Surya86899&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya86899&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya86899&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧰 Tools & Technologies
+## 🔗 Let's Connect
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<p align="center">
+  <a href="mailto:dora42240@gmail.com"><img src="https://img.shields.io/badge/Gmail-dora42240@gmail.com-red?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/k-suryanarayan-dora-967847247"><img src="https://img.shields.io/badge/LinkedIn-K Suryanarayan Dora-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://instagram.com/khiladi_0507"><img src="https://img.shields.io/badge/Instagram-khiladi__0507-ff69b4?style=flat&logo=instagram" /></a>
+  <a href="https://github.com/Surya86899"><img src="https://img.shields.io/badge/GitHub-Surya86899-black?style=flat&logo=github" /></a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<p align="center"><i>"Innovate. Build. Repeat."</i></p>
