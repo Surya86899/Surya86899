@@ -43,7 +43,7 @@ Databases, APIs, Web Dev, Startups, or Memes 😄
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" height="40"/><br>Python<br>
       <img src="https://skillicons.dev/icons?i=java" height="40"/><br>Java<br>
-      <img src="https://skillicons.dev/icons?i=c" height="40"/><br>C
+      <img src="https://skillicons.dev/icons?i=cpp" height="40"/><br>C++
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html" height="40"/><br>HTML<br>
